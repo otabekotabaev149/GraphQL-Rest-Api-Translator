@@ -1,0 +1,6 @@
+Integration Microservice: Runs on http://localhost:8080
+GraphQL Parser Microservice: Runs on http://localhost:8081
+Query Translator Microservice: Runs on http://localhost:8082
+
+REST Endpoint Manager microservice: Runs on http://localhost:8084
+
